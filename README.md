@@ -15,7 +15,6 @@ Poddy is a simple Python script that allows you to download podcast episodes fro
 
 Make sure you have Python 3.x installed. You can check by running:
 
-```bash
 python --version
 Installing Dependencies
 
