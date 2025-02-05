@@ -30,7 +30,7 @@ Follow the prompts:
     Specify the number of years of episodes to download (enter 0 to download all episodes).
     Select the quality for the downloads (e.g., 32, 128, 192 kbps).
 
-The podcast episodes will be downloaded in the current directory, organized by the podcast name ( or will update if folder exists already)
+The podcast episodes will be downloaded in the current directory, organized by the podcast name, podcast date ( or will update if folder exists already)
 ## 🚀 To-Do List
 
 ### 1. ✨ Polish the Script
