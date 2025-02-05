@@ -20,7 +20,7 @@ Installing Dependencies
 
 cd poddy
 pip install -r requirements.txt
-##Usage
+## Usage
 
 ## Run the script by executing the following command in your terminal:
 python poddy.py
