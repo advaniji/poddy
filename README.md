@@ -25,7 +25,7 @@ cd poddy
 pip install -r requirements.txt
 Usage
 
-Run the script by executing the following command in your terminal:
+## Run the script by executing the following command in your terminal:
 python poddy.py
 Follow the prompts:
 
