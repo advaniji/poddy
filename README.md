@@ -18,11 +18,9 @@ Make sure you have Python 3.x installed. You can check by running:
 python --version
 Installing Dependencies
 
-Clone this repository and install the required dependencies using the requirements.txt file:
-git clone https://github.com/advaniji/poddy.git
 cd poddy
 pip install -r requirements.txt
-Usage
+##Usage
 
 ## Run the script by executing the following command in your terminal:
 python poddy.py
